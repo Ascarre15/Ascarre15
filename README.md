@@ -113,4 +113,4 @@ All reverse engineering and security research activities are performed strictly 
 
 ⭐ **"Code. Break. Understand. Repeat."**
 
-Join My Telegram Channel - [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram)](https://t.me/AscarreHacks)
+Join My Telegram Channel - [![AscarreHacks](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AscarreHacks)
